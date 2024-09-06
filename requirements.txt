@@ -1,0 +1,8 @@
+python3
+django==4.2
+djangorestframework [trabaja con 
+    Django (4.2, 5.0)
+    Python (3.8, 3.9, 3.10, 3.11, 3.12)
+    ]
+django-cors-headers 
+#4.4.0 (este módulo es necesario, para poder controlar los origin cors, es decir cuando llamamos nuestra api desde otra app cliente, que normalmente se ejecuta desde otro servidor)
